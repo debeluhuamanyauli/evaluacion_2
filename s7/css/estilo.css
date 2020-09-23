@@ -1,0 +1,62 @@
+body{
+    background-color:#ffc244;
+}
+
+.primario{
+    background-color:#2abb9b;
+    width:100px ;
+    height: 40px;
+    border-radius: 18px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    left: 1000px;
+    top: 25px;
+
+}
+.primGlovo{
+    color:#09a180;
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    left: 600px;
+    top: 60px;
+}
+
+.secGlovo{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    left: 450px;
+    top: 60px;
+}
+.secGlovo2{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    left: 400px;
+    top: -150px;
+}
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    position: relative;
+    left: -600px;
+    top: 200px;
+}
+
+.secundario{
+    background-color: rgb(255, 255, 255);
+    width:100px ;
+    height: 40px;
+    border-radius: 18px;
+    border: 0px;
+    font-weight: bold;
+    position: relative;
+    left: 1010px;
+    top: 25px;
+}
